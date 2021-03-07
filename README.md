@@ -17,3 +17,5 @@ let vars = {
 }
 generateGrid(vars);
 ````
+
+**Note: this has been modified from a project to work 'out of the box' but hasn't been tested.**
